@@ -5,4 +5,4 @@ Default Web Setup
 
 This is a Repro from [Dev-MB](https://github.com/dev-mb/).
 
-© <a href="https://dev-mb.dev"><b>dev-mb.dev</b></a> <img alt="Discord-Bot" width="22px" src="https://cdn.mbdev.cc/cdn/mb/logo.svg" style="vertical-align: middle;"> <img src="https://cdn.mbdev.cc/cdn/mb/logo.svg" width="25px;" alt="Dev-MB"/>
+© <a href="https://dev-mb.dev"><b>dev-mb.dev</b></a> <img alt="Discord-Bot" width="22px" src="https://cdn.mbdev.cc/cdn/mb/logo.svg" style="vertical-align: middle;">
