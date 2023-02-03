@@ -1,0 +1,18 @@
+	
+	@use 'color';
+
+	
+	
+	html,
+	body {
+		margin: 0;
+		padding: 0;
+		background: color.$prime;
+		width: 100%;
+		color: color.$white;
+		font-family: Roboto Condensed, sans-serif;
+	}
+
+	* {
+		box-sizing: border-box;
+	}
